@@ -1,0 +1,31 @@
+{
+  "name": "ng2-storage",
+  "version": "0.0.1",
+  "description": "A service wrapping local and session storage for angular2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiyria/ng2-sweetalert2.git"
+  },
+  "keywords": [
+    "ng2",
+    "angular2",
+    "localstorage",
+    "sessionstorage",
+    "storage",
+    "ng2-storage",
+    "angular2-storage"
+  ],
+  "author": "Kyle Kemp <kyle@seiyria.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seiyria/ng2-storage/issues"
+  },
+  "homepage": "https://github.com/seiyria/ng2-storage#readme",
+  "peerDependencies": {
+    "@angular/platform-browser": "2.0.0-rc.1"
+  }
+}
