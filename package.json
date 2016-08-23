@@ -1,6 +1,6 @@
 {
   "name": "ng2-storage",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A service wrapping local and session storage for angular2.",
   "main": "index.js",
   "scripts": {
@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/seiyria/ng2-storage#readme",
   "peerDependencies": {
-    "@angular/platform-browser": "2.0.0-rc.1"
+    "@angular/platform-browser": "^2.0.0-rc.4"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.9.0"
